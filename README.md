@@ -7,6 +7,8 @@ This case study uses PostgreSQL. To successfully answer all the questions you sh
 * Joins
 * Date time functions
 * CTEs
+#### Data source
+[Tiny shop](Tiny_shop_database.sql)
 
 #### Recommended Analysis
 1. Which product has the highest price? Only return a single row.
