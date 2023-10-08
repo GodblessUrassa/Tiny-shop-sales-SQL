@@ -33,6 +33,7 @@ ORDER BY price DESC
 ```
 ![](q1.jpg)
 ---
+
 2. Which customer has made the most orders?
 ```SQL
 SELECT	first_name, 
